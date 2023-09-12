@@ -1,31 +1,31 @@
-,UID,Name,Nat,Age,Position,Height,Weight,2nd Nat,Preferred Foot
-0,29087736,Matt Macey,ENG,26,GK,205 ,85,,Either
-1,61013783,David Mitchell,SCO,31,GK,183 ,84,,Right Only
-2,96075402,Kevin Dąbrowski,POL,23,GK,197 ,81,,Right
-3,5207982,Darren McGregor,SCO,35,D (C),183 ,88,,Right
-4,61003672,Paul Hanlon,SCO,31,D (C),180 ,70,,Left
-5,61077396,Ryan Porteous,SCO,22,D (C),188 ,75,,Right
-6,18102074,Rocky Bushiri,BEL,21,"D (RC), WB (R), DM",187 ,89,COD,Right
-7,28116307,Harry Clarke,ENG,20,"D (RC), WB (R)",188 ,81,,Right
-8,61028791,Paul McGinn,SCO,30,"D (RC), WB (R)",176 ,66,,Right
-9,61066315,Chris Cadden,SCO,24,"D/WB (R), M/AM (RC)",183 ,67,,Right
-10,5217061,Lewis Stevenson,SCO,33,D/WB (L),171 ,67,,Left
-11,61093823,Josh Doig,SCO,19,D/WB (L),189 ,81,,Left
-12,28105523,Jake Doyle-Hayes,IRL,22,"DM, M (C)",175 ,73,,Right
-13,36062516,Alex Gogić,CYP,27,"DM, M (C)",185 ,83,SRB,Right
-14,29083920,Drey Wright,ENG,26,"WB (R), M (RL), AM (RLC)",178 ,66,,Right
-15,29125333,Demetri Mitchell,ENG,24,"WB (L), AM (RL)",181 ,66,,Left Only
-16,28049656,Joe Newell,ENG,28,M (C),185 ,71,,Left
-17,61015863,Scott Allan,SCO,29,M/AM (C),175 ,70,,Right
-18,61068991,Kyle Magennis,SCO,22,M/AM (C),181 ,80,,Right
-19,90086631,Josh Campbell,SCO,21,M/AM (C),175 ,73,,Right
-20,29179387,Ewan Henderson,SCO,21,"M (C), AM (RLC)",181 ,70,,Either
-21,53151878,Runar Hauge,NOR,19,M/AM (RL),175 ,71,,Right
-22,72051143,Chris Mueller,USA,24,"M (R), AM (RLC)",176 ,77,,Right
-23,61092645,Steven Bradley,SCO,19,AM (RC),187 ,78,,Either
-24,356951,Jamie Murphy,SCO,31,AM (L),176 ,64,,Right Only
-25,28122192,Sylvester Jasper,BUL,19,AM (RL),180 ,65,NGA,Right
-26,53179963,Elias Hoff Melkersen,NOR,18,"AM (R), ST (C)",178 ,72,,Right
-27,61078239,James Scott,SCO,20,"AM (RL), ST (C)",189 ,87,,Right
-28,61070818,Kevin Nisbet,SCO,24,ST (C),180 ,77,,Right
-29,74030889,Christian Doidge,WAL,28,ST (C),186 ,77,,Right
+UID,Player Name,Age,Position,Height,Weight,Preferred Foot,Country ID,2nd Nat Country ID
+29087736,Matt Macey,26,GK,205,85,Either,60,
+61013783,David Mitchell,31,GK,183,84,Right Only,161,
+96075402,Kevin Dąbrowski,23,GK,197,81,Right,151,
+5207982,Darren McGregor,35,D (C),183,88,Right,161,
+61003672,Paul Hanlon,31,D (C),180,70,Left,161,
+61077396,Ryan Porteous,22,D (C),188,75,Right,161,
+18102074,Rocky Bushiri,21,"D (RC), WB (R), DM",187,89,Right,18,42.0
+28116307,Harry Clarke,20,"D (RC), WB (R)",188,81,Right,60,
+61028791,Paul McGinn,30,"D (RC), WB (R)",176,66,Right,161,
+61066315,Chris Cadden,24,"D/WB (R), M/AM (RC)",183,67,Right,161,
+5217061,Lewis Stevenson,33,D/WB (L),171,67,Left,161,
+61093823,Josh Doig,19,D/WB (L),189,81,Left,161,
+28105523,Jake Doyle-Hayes,22,"DM, M (C)",175,73,Right,89,
+36062516,Alex Gogić,27,"DM, M (C)",185,83,Right,52,171.0
+29083920,Drey Wright,26,"WB (R), M (RL), AM (RLC)",178,66,Right,60,
+29125333,Demetri Mitchell,24,"WB (L), AM (RL)",181,66,Left Only,60,
+28049656,Joe Newell,28,M (C),185,71,Left,60,
+61015863,Scott Allan,29,M/AM (C),175,70,Right,161,
+61068991,Kyle Magennis,22,M/AM (C),181,80,Right,161,
+90086631,Josh Campbell,21,M/AM (C),175,73,Right,161,
+29179387,Ewan Henderson,21,"M (C), AM (RLC)",181,70,Either,161,
+53151878,Runar Hauge,19,M/AM (RL),175,71,Right,141,
+72051143,Chris Mueller,24,"M (R), AM (RLC)",176,77,Right,200,
+61092645,Steven Bradley,19,AM (RC),187,78,Either,161,
+356951,Jamie Murphy,31,AM (L),176,64,Right Only,161,
+28122192,Sylvester Jasper,19,AM (RL),180,65,Right,32,138.0
+53179963,Elias Hoff Melkersen,18,"AM (R), ST (C)",178,72,Right,141,
+61078239,James Scott,20,"AM (RL), ST (C)",189,87,Right,161,
+61070818,Kevin Nisbet,24,ST (C),180,77,Right,161,
+74030889,Christian Doidge,28,ST (C),186,77,Right,208,
