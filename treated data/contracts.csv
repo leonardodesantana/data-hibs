@@ -1,0 +1,31 @@
+Contract ID,UID,Agreed Playing Time,Salary,Begins,Expires,Type,Appearance Fee,Assist Bonus,Goal Bonus,Int Cap Bonus,Min Fee Rls,Min Fee Rls Exp,Min Fee Rls Clubs In Cont Comp,Min Fee Rls Clubs Cont Comp Exp,Min Fee Rls Clubs Mjr Cont Comp,Min Fee Rls Clubs Mjr Cont Comp Exp,Min Fee Rls to Higher Div,Min Fee Rls to Higher Div Exp,Min Fee Rls to Domestic Clubs,Min Fee Rls to Domestic Clubs Exp,Min Fee Rls to Foreign Clubs,Min Fee Rls to Foreign Clubs Exp,1 Year Ext Rel Aft Games,1 Year Ext Aft Games,1 Year Ext Prom Aft Games,Opt Ext by Club,WaCLG,Salary After Tax,Shutout Bonus,Top Div Prom Salary Raise,Top Div Rel Salary Drop,Unused Sub Fee,Yearly Salary Raise
+1,61066315,Regular Starter,104000 ,1/15/2021,5/31/2023,Full Contract,600,300,,,,,,,,,,,,,,,,,,,,66500 ,300,0%,25%,400,0%
+2,61028791,Squad Player,93500 ,1/31/2020,5/31/2022,Full Contract,550,,,,,,,,,,,,,,,,,,,,,60500 ,275,0%,25%,350,0%
+3,29087736,First-Choice Goalkeeper,260000 ,1/8/2021,6/30/2023,Full Contract,1300,,,,,,,,,,,,,,,,,,,,,152000 ,1000,0%,25%,625,0%
+4,61077396,Regular Starter,130000 ,10/24/2018,5/31/2023,Full Contract,750,,,,,,,,,,,,,,,,,,,,,81500 ,375,0%,25%,500,0%
+5,90086631,Youngster,21000 ,11/7/2018,6/30/2025,Full Contract,120,60,,,,,,,,,,,,,,,,,,,,16500 ,,0%,25%,80,0%
+6,28049656,Squad Player,182000 ,2/23/2021,5/31/2023,Full Contract,1100,,,,,,,,,,,,,,,,,,,,,111000 ,,0%,25%,700,0%
+7,61015863,Regular Starter,156000 ,5/31/2019,5/31/2022,Full Contract,900,450,,,,,,,,,,,,,,,,,,,,96500 ,,0%,25%,600,0%
+8,356951,Out On Loan,208000 ,5/31/2021,6/30/2022,Full Contract,1200,600,,,,,,,,,,,,,,,,,,,,124000 ,,0%,25%,800,0%
+9,5207982,Squad Player,78000 ,5/9/2017,5/31/2023,Full Contract,900,,,,,,,,,,,,,,,,,,,,,51500 ,230,0%,25%,600,0%
+10,61068991,Regular Starter,78000 ,6/1/2020,5/31/2025,Full Contract,450,230,,,,,,,,,,,,,,,,,,,,51500 ,,0%,25%,300,0%
+11,96075402,Backup,26000 ,6/13/2017,5/31/2023,Full Contract,150,,,,,,,,,,,,,,,,,,,,,19750 ,100,0%,25%,100,0%
+12,61013783,Emergency Backup,26000 ,6/28/2021,5/31/2023,Full Contract,130,,,,,,,,,,,,,,,,,,,,,19750 ,100,0%,25%,60,0%
+13,61078239,Breakthrough Prospect,156000 ,6/28/2021,5/31/2022,Loan,1000,500,2000,,,,,,,,,,,,,,,,,1.0,,96500 ,,0%,0%,1000,0%
+14,29179387,Squad Player,130000 ,6/28/2021,5/31/2022,Loan,750,375,,,,,,,,,,,,,,,,,,,,81500 ,,0%,25%,500,0%
+15,28122192,Breakthrough Prospect,130000 ,6/28/2021,5/31/2022,Loan,750,375,,,,,,,,,,,,,,,,,,,,81500 ,,0%,0%,500,0%
+16,28116307,Breakthrough Prospect,52000 ,6/28/2021,5/31/2023,Loan,600,,,,,,,,,,,,,,,,,,,,,36000 ,300,0%,25%,400,0%
+17,61092645,Out On Loan,44000 ,6/28/2021,5/31/2024,Full Contract,250,130,,,,,,,,,,,,,,,,,,,,17000 ,,0%,25%,170,0%
+18,5217061,Fringe Player,78000 ,6/28/2021,5/31/2023,Full Contract,450,,,,,,,,,,,,,,,,,,,,,51500 ,230,0%,25%,300,0%
+19,61003672,Squad Player,130000 ,6/28/2021,5/31/2024,Full Contract,750,,,,,,,,,,,,,,,,,,,,,81500 ,375,0%,25%,500,0%
+20,74030889,Important Player,104000 ,6/28/2021,5/31/2024,Full Contract,600,,300,,,,,,,,,,,,,,,,,,,66500 ,,0%,25%,400,0%
+21,61093823,Regular Starter,36500 ,6/28/2021,5/31/2026,Full Contract,210,,,,,,,,,,,,,,,,,,,,,26500 ,110,0%,25%,140,0%
+22,28105523,Important Player,41500 ,6/28/2021,5/31/2025,Full Contract,240,,,,,,,,,,,,,,,,,,,,,30000 ,,0%,25%,160,0%
+23,29125333,Squad Player,130000 ,6/28/2021,5/31/2024,Full Contract,750,375,,,,,,,,,,,,,,,,,,,,81500 ,375,0%,25%,500,0%
+24,53151878,Squad Player,47500 ,6/28/2021,6/30/2025,Full Contract,275,140,,,,,,,,,,,,,,,,,,,,33500 ,,0%,25%,180,0%
+25,53179963,Squad Player,78000 ,6/28/2021,6/30/2026,Full Contract,450,,230,,,,,,,,,,,,,,,,,,,51500 ,,0%,25%,300,0%
+26,72051143,Important Player,260000 ,6/28/2021,6/30/2025,Full Contract,1500,750,,,,,,,,,,,,,,,,,,,,152000 ,,0%,25%,1000,0%
+27,18102074,Squad Player,260000 ,6/28/2021,5/31/2022,Loan,1500,,,,,,,,,,,,,,,,,,,,,152000 ,750,0%,0%,1000,0%
+28,61070818,Regular Starter,52000 ,7/10/2020,5/31/2024,Full Contract,300,,150,,,,,,,,,,,,,,,,,,,36000 ,,0%,25%,200,0%
+29,29083920,Fringe Player,78000 ,7/10/2020,6/30/2022,Full Contract,450,230,,,,,,,,,,,,,,,,,,,,51500 ,230,0%,25%,300,0%
+30,36062516,Out On Loan,67500 ,7/10/2020,5/31/2022,Full Contract,400,,,,,,,,,,,,,,,,,,,,,45500 ,,0%,25%,250,0%
